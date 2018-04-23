@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UdacityPraticalQuiz</string>
+    <string name="write_about_yourself">Write about yourself</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="next">NEXT</string>
+    <string name="welcome_to_my_app">Welcome to\nmy App</string>
+</resources>
