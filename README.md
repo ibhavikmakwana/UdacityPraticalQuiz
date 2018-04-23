@@ -2,7 +2,7 @@
 
 Application on the practical quiz Google India Challenge Scholarship 2018
 
-#Features
+# Features
 - Design
 - SharedPreference
 - SavedInstanceState
